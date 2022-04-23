@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: black;
-    padding: 0 200px;
+    margin: 0;
+    padding: 0;
 }
 
 .head {
-    padding: 0 200px 50px;
+    padding: 0 400px 50px;
     color: #f9faf8;
     background-color: #1f2937;
     margin-bottom: 0;
@@ -147,7 +147,7 @@ h1 {
 
 .quote {
     background-color: #e5e7eb;
-    padding: 80px 310px;
+    padding: 80px 510px;
     display: flex;
     flex-direction: column;
     gap: 0;
@@ -168,7 +168,7 @@ h1 {
 
 .action {
     background-color: #ffffff;
-    padding: 80px 200px;
+    padding: 80px 400px;
 }
 
 .action-text .main {
